@@ -13,6 +13,7 @@ namespace notepad
         [STAThread]
         static void Main()
         {
+            //Novo comentario
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmPrincipal());
