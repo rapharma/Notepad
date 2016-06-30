@@ -14,7 +14,7 @@ namespace notepad
         
         public void salvarfonte(RichTextBox tx)                    //Font[1], Tamanho[2], Cor[3]
         {
-            string[] strlines; strlines = new string[2];
+            string[] strlines; strlines = new string[3];
 
             strlines[0] = tx.Font.Name.ToString();
             strlines[1] = tx.Font.Size.ToString();

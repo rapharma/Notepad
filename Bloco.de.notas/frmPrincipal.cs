@@ -57,6 +57,11 @@ namespace notepad
         private void salvarFonteToolStripMenuItem_Click(object sender, EventArgs e)
         { f.salvarfonte(txttexto); }
 
+        private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
 
 
 
