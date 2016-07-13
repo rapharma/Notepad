@@ -10,6 +10,7 @@ namespace notepad
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Rafael esteve aqui
         [STAThread]
         static void Main()
         {
